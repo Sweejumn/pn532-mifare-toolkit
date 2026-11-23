@@ -1,0 +1,9 @@
+# 忽略运行产物与随包二进制
+nfc-bin/
+state/
+logs/
+out/
+__pycache__/
+*.pyc
+*.zip
+*.log

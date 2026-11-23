@@ -1,0 +1,9 @@
+﻿{
+ "nfc_bin": "nfc-bin",
+ "port": "",
+ "reference_key": "ffffffffffff",
+ "reference_block": 36,
+ "verify_after_crack": true,
+ "max_attempts": 3,
+ "dict_scan_seconds": 90
+}
